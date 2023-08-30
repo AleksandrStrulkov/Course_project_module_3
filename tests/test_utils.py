@@ -2,7 +2,6 @@ from src.utils import *
 from src.main import file_json_setup
 
 
-
 def test_load_file():
     assert type(load_file(file_json_setup)) == list
 
