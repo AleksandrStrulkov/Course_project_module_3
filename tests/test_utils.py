@@ -1,6 +1,6 @@
 from src.utils import *
 from src.main import file_json_setup
-from src.main import start_programs
+
 
 
 def test_load_file():
