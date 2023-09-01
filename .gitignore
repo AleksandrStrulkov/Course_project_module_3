@@ -6,7 +6,7 @@ __pycache__/
 .pytest_cache
 poetry.lock
 .pyre/
-
+pytest
 .env
 .venv
 env/
